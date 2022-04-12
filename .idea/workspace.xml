@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96b92c18-41ac-4bc5-87e3-4af9e2543793" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/krudmin/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/krudmin/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -151,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649315251884</updated>
       <workItem from="1649315254292" duration="2805000" />
-      <workItem from="1649395290614" duration="5677000" />
+      <workItem from="1649395290614" duration="8764000" />
     </task>
     <servers />
   </component>
